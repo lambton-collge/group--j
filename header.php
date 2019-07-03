@@ -1,7 +1,7 @@
 <?php
 include('config.php');
 session_start();
-date_default_timezone_set('Asia/Kolkata');
+date_default_timezone_set('canada/ontario');
 ?>
 <!--
 Author: W3layouts
