@@ -14,14 +14,14 @@
 					<div class="textcontact">
 						<p>Movie<br>
 						 Ticket Booking<br>
-						Ph: +1-000-000-0000<br>
+						Ph: +1-485-952-7915<br>
 						</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="call_info">
 						<p class="txt_3">Call us toll free:</p>
-						<p class="txt_4">+1-000-000-0000</p>
+						<p class="txt_4">+1-458-852-741</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
